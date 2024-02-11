@@ -1,0 +1,15 @@
+D:\YazilimKampi2024\MaskeTakip\Business\bin\Debug\net8.0\Business.deps.json
+D:\YazilimKampi2024\MaskeTakip\Business\bin\Debug\net8.0\Business.dll
+D:\YazilimKampi2024\MaskeTakip\Business\bin\Debug\net8.0\Business.pdb
+D:\YazilimKampi2024\MaskeTakip\Business\bin\Debug\net8.0\Entities.dll
+D:\YazilimKampi2024\MaskeTakip\Business\bin\Debug\net8.0\Entities.pdb
+D:\YazilimKampi2024\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\YazilimKampi2024\MaskeTakip\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\YazilimKampi2024\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\YazilimKampi2024\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\YazilimKampi2024\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\YazilimKampi2024\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+D:\YazilimKampi2024\MaskeTakip\Business\obj\Debug\net8.0\Business.dll
+D:\YazilimKampi2024\MaskeTakip\Business\obj\Debug\net8.0\refint\Business.dll
+D:\YazilimKampi2024\MaskeTakip\Business\obj\Debug\net8.0\Business.pdb
+D:\YazilimKampi2024\MaskeTakip\Business\obj\Debug\net8.0\ref\Business.dll
